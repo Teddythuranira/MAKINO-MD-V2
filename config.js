@@ -10,17 +10,17 @@ global.antitags = false;
 
 
 //auto functioner
-global.autoTyping = false;                //make true to enable auto typing
+global.autoTyping = true;                //make true to enable auto typing
 global.autoRecord = true;                //make true to enable auto recording
 global.groupevent = true;                //This is the new variable for controlling group event handling.
-global.statusseen = false;                 //make true to view statuses 
-global.ANTI_BOT = false;
+global.statusseen = true;                 //make true to view statuses 
+global.ANTI_BOT = true;
 global.PM_BLOCKER = false;
 global.CHATBOT = false;
 
-global.SESSION_ID = process.env.SESSION_ID || ""
-global.Owner = ["2349151864541"]; //like 2347080968564 
-global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
+global.SESSION_ID = process.env.SESSION_ID || "taira_tech-2d23dc96-b786-4ee0-bf42-77fb0c1a2c0b"
+global.Owner = ["254751275217"]; //like 2347080968564 
+global.OwnerName =  "DE PISTO";
 global.BotName = "♱MAKINO-MD-V2♱♡⃤";
 global.packname = "♱MAKINO-MD-V2♱♡⃤";                             //Do not change.
 global.author = "TAIRA MAKINO";                               //Do not change.
